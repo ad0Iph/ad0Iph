@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm a 24 years old student of computer science at [DCC, Universidad de Chile](https://dcc.uchile.cl/). My interests are: web development, computer graphics and game development.
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adolfo-arenas-palacios/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aarenas@dcc.uchile.cl) 
 
 # 💻 Tech Stack:
